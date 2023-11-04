@@ -1,5 +1,5 @@
 # Developing a Shell
-This is lab work that was completed in 3rd year Operating Systems course.
+This is lab work that I completed in my 3rd year Operating Systems (SOFE 3950U) course.
 
 ### Commands
 
